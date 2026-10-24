@@ -1,0 +1,21 @@
+﻿# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# Temporary IDE & OS artifacts
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Output media & debug figures
+*.mp4
+*.avi
+Figure_*.png
